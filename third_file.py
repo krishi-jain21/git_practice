@@ -1,0 +1,2 @@
+print("summer")
+print("winter")
