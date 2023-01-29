@@ -1,0 +1,2 @@
+print("black")
+print("purple")
